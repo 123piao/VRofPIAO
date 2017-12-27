@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:color="@color/ui_robot_press_btn_pressed" android:state_pressed="true"/>
+    <item android:color="@color/ui_robot_press_btn_nomor" android:state_pressed="false" />
+    <item android:color="@color/ui_robot_press_btn_nomor" android:state_enabled="true"/>
+    <item android:color="@color/ui_robot_press_btn_disabled" android:state_enabled="false" />
+
+</selector>

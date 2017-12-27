@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/action_bar_layout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/robot_title_hight"
+                android:background="@color/ui_robot_title_bk_color">
+
+    <TextView
+        android:id="@+id/action_bar_title"
+        style="@style/title_bar_title"
+        android:layout_width="150dp"
+        android:layout_height="@dimen/robot_title_hight"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"/>
+    <!-- 标题栏右侧功能区，包括返回箭头和标题文字 -->
+
+    <RelativeLayout
+        android:id="@+id/action_bar_back"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="13dp">
+
+        <ImageView
+            android:id="@+id/backImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@null"
+            android:paddingBottom="12dp"
+            android:paddingTop="12dp"
+            android:scaleType="center"
+            android:src="@drawable/ui_action_bar_back_style"/>
+
+        <TextView
+            android:id="@+id/id_back_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="4dp"
+            android:layout_toRightOf="@+id/backImageView"
+            android:paddingLeft="3dp"
+            android:text="@string/ui_title_bar_back"
+            android:textColor="@color/ui_robot_selected_text_color"
+            android:textSize="16sp"
+            android:visibility="visible"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/id_webView_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="4dp"
+        android:layout_toRightOf="@+id/action_bar_back"
+        android:paddingLeft="3dp"
+        android:text="关闭"
+        android:textColor="@color/ui_robot_selected_text_color"
+        android:textSize="14sp"
+        android:visibility="gone"/>
+
+    <!-- 左端图片区域，须根据点击区域事件(click, touch down, touch cancel)更新背景图 -->
+
+    <RelativeLayout
+        android:id="@+id/right_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="13dp"
+        >
+
+        <ImageView
+            android:id="@+id/action_bar_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="@dimen/ui_robot_back_to_left"
+            android:background="@drawable/ui_robot_share_icon_selector"
+            android:paddingBottom="12dp"
+            android:paddingTop="12dp"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/action_bar_right_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="0dp"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:text="返回"
+            android:textColor="@color/ui_robot_selected_text_color"
+            android:textSize="16sp"
+            android:visibility="invisible"/>
+    </RelativeLayout>
+
+</RelativeLayout>

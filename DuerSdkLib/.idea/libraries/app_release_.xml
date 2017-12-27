@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="app-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/app-release/jars/libs/fastjson-1.2.5.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/app-release/res" />
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/app-release/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

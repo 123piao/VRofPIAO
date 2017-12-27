@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\float_hint_more_text_color.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\float_hint_more_text_color.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ui_robot_press_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\ui_robot_press_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\guide_text_color_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\guide_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ui_robot_selected_text_color.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\ui_robot_selected_text_color.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ui_robot_press_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\ui_robot_press_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\guide_text_color_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\guide_text_color_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\ui_robot_selected_text_color.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\ui_robot_selected_text_color.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\robot_selector_tab_text_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\robot_selector_tab_text_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\robot_selector_tab_text_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\robot_selector_tab_text_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\float_hint_more_text_color.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\color\\float_hint_more_text_color.xml"
+    }
+]

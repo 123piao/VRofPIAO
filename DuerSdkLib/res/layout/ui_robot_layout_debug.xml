@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f2f2f2"
+     >
+
+    <include
+        android:id="@+id/id_title_layout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/robot_title_hight"
+        layout="@layout/ui_action_title_bar" />
+
+    <!-- 界面切换-->
+    <LinearLayout
+        android:id="@+id/id_switch_bar"
+        android:layout_height="44dp"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_below="@id/id_title_layout">
+
+        <Button android:id="@+id/id_basicinfo_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textColor="#00FF00"
+            android:layout_margin="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="基本信息"/>
+
+        <Button
+            android:id="@+id/id_basicfunc_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="基础功能"/>
+        <Button
+            android:id="@+id/id_hightfunc_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="3dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="高级功能功能"/>
+    </LinearLayout>
+
+    <!-- 基本信息-->
+    <RelativeLayout
+        android:id="@+id/layout_basicinfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:layout_below="@id/id_switch_bar"
+        >
+        <View
+            android:id="@+id/id_setting_top_div"
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#d9d9d9" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="false">
+            <TextView
+                android:id="@+id/debug_mgs"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textSize="16dp"
+                android:padding="5dp"/>
+        </ScrollView>
+    </RelativeLayout>
+
+    <!-- 基础功能-->
+    <RelativeLayout
+        android:id="@+id/layout_basicfunc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible"
+        android:layout_below="@id/id_switch_bar"
+        >
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="false">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <!-- 当前通信方式-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="当前请求通信方式："/>
+                    <TextView
+                        android:id="@+id/id_set_imhttp_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="HTTP"/>
+                    <Button android:id="@+id/set_imhttp"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical"
+                        android:gravity="left|center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+                <!-- IM线上线下设置-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="IM-debug字段："/>
+                    <TextView
+                        android:id="@+id/id_set_imline_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="0（线上）"/>
+                    <Button android:id="@+id/set_imline"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+                <!-- 强制不接受im探活消息-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="强制废弃IM探测消息："/>
+                    <TextView
+                        android:id="@+id/id_dropimmsg_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="强制废弃"/>
+                    <Button android:id="@+id/set_dropimmsg_bt"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+                <!-- 发现中心h5地址-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="发现中心H5地址："/>
+                    <TextView
+                        android:id="@+id/id_set_disonline_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="线上（xiaodu）"/>
+                    <Button android:id="@+id/set_disonline"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- 浮点hint设置-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="浮点hintDebug："/>
+                    <TextView
+                        android:id="@+id/id_set_floathint_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="已开启"/>
+                    <Button android:id="@+id/set_floathint"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- Apploger是否打开-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="Apploger是否打开："/>
+                    <TextView
+                        android:id="@+id/id_applogeropen_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="已开启"/>
+                    <Button android:id="@+id/id_applogeropen_bt"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- 日志是否写入问题-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="Log日志写入文件："/>
+                    <TextView
+                        android:id="@+id/id_auto_writelog_txt"
+                        android:layout_width="120dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/debug_button_text_color"
+                        android:layout_weight="1"
+                        android:text="已开启"/>
+                    <Button android:id="@+id/auto_writelog"
+                        android:layout_width="80dp"
+                        android:layout_height="match_parent"
+                        android:gravity="left|center_vertical"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击切换"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- 进入data目录浏览-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:gravity="center_vertical|right"
+                        android:textColor="@color/debug_button_text_color"
+                        android:text="进入手百Data目录："/>
+                    <Button
+                        android:id="@+id/browdata_btn"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:layout_gravity="center_vertical"
+                        android:text="点击进入(无需root)"/>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- 设置host-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:visibility="visible"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center_vertical|left"
+                        android:textColor="#ff0000"
+                        android:text="设置host（启用并且当前通信方式为HTTP才会生效）"/>
+                    <EditText
+                        android:id="@+id/id_hostEditText_et"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="请输入host"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginStart="10dp"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="170dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="保存Host(启用才会生效)："/>
+                        <Button
+                            android:id="@+id/id_hostSetting_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="保存"/>
+                        <Button
+                            android:id="@+id/id_hostSettingstart_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="已经启用"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <!-- 设置异步大消息host-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center_vertical|left"
+                        android:textColor="#ff0000"
+                        android:text="设置异步大消息host（启用才会生效）"/>
+                    <EditText
+                        android:id="@+id/id_asyncMsgEditText_et"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:hint="请输入异步大消息host"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginStart="10dp"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="170dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="保存Host(启用才会生效)："/>
+                        <Button
+                            android:id="@+id/id_asyncMsgSetting_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="保存"/>
+                        <Button
+                            android:id="@+id/id_asyncMsgSettingstart_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="已经启用"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+            </LinearLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+
+    <!-- 高级功能-->
+    <RelativeLayout
+        android:id="@+id/layout_hightinfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        android:layout_below="@id/id_switch_bar"
+        >
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#d9d9d9" />
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="false">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <!-- 设置经纬度-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="30dp"
+                        android:layout_marginLeft="10dp"
+                        android:gravity="center_vertical|left"
+                        android:textColor="#ff0000"
+                        android:text="设置经纬度（启用才会生效）"/>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="经度："/>
+                        <EditText
+                            android:id="@+id/id_loEditText_et"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="请输入经度"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"/>
+                    </LinearLayout>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="50dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="纬度："/>
+                        <EditText
+                            android:id="@+id/id_laEditText_et"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:hint="请输入纬度"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"/>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="170dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="保存经纬度(启用才生效)："/>
+                        <Button
+                            android:id="@+id/id_lolaSetting_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="保存"/>
+                        <Button
+                            android:id="@+id/id_lolaSettingstart_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="已经启用"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+                <!-- 设置经纬度-->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="44dp"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="170dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center_vertical|right"
+                            android:textColor="@color/debug_button_text_color"
+                            android:text="导出度秘数据到sdcard："/>
+                        <Button
+                            android:id="@+id/id_exportduerdata_bt"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:layout_alignParentBottom="true"
+                            android:layout_weight="1"
+                            android:text="导出"/>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/id_chatwebonline_bt"
+                        android:layout_width="60dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:text="设置" />
+
+                    <EditText
+                        android:id="@+id/id_chatwebonline_et"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toLeftOf="@id/id_chatwebonline_bt"
+                        android:hint="请输入在线web地址" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="44dp"
+                    android:layout_marginTop="10dp"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/id_chatwebdownload_bt"
+                        android:layout_width="60dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:text="下载" />
+
+                    <EditText
+                        android:id="@+id/id_chatwebdownload_et"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_toLeftOf="@id/id_chatwebdownload_bt"
+                        android:hint="请输入web build包地址" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/bgColor_divier" />
+            </LinearLayout>
+        </ScrollView>
+    </RelativeLayout>
+
+</RelativeLayout>

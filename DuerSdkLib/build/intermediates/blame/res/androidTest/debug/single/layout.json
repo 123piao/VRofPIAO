@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wheel_item_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wheel_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_debug.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_debug.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fast_title_cell_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\fast_title_cell_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layout_music_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layout_music_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_textview.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_textview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_rootlayout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_rootlayout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_image_view_fresco.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_image_view_fresco.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_alertview.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\huawei_first_time_start_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\huawei_first_time_start_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_float_hint_text_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_float_hint_text_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_loading_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tab_subitem_cell.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\tab_subitem_cell.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layout_bottom_drawer.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layout_bottom_drawer.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_webview.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_webview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layout_music_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layout_music_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_main.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\huawei_press_search_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\huawei_press_search_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_debug.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_debug.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_voice_search_1_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_voice_search_1_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_fast_title_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_fast_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\wheel_item_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\wheel_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_fw_filelistview.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_fw_filelistview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_photo_action_title_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_photo_action_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_net_error.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_net_error.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_cell_text_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_cell_text_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_webview.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_webview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\voice_test_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\voice_test_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_title_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_progress_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_voice_search_1_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_voice_search_1_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_progress_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_textview.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_textview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_main.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_main.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_progress_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loadingcover_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\loadingcover_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_net_error.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_net_error.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\huawei_first_time_start_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\huawei_first_time_start_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_image_browse.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_image_browse.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\huawei_press_search_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\huawei_press_search_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_alertbutton.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_cell_text.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_cell_text.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_layout_bottom_drawer.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_layout_bottom_drawer.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_fw_activityfileexplorer.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_fw_activityfileexplorer.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_miaokai_guide.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_miaokai_guide.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_image_list.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_image_list.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_cell_text.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_cell_text.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_fast_title_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_fast_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_image_list_item.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_image_list_item.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_progress_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_progress_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\loadingcover_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\loadingcover_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_cell_text_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_cell_text_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_image_view_fresco.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_image_view_fresco.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_net_error.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_net_error.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_action_title_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_action_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_alert_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_tab_viewpager.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_tab_viewpager.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_miaokai_music_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_miaokai_music_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_tab_viewpager.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_tab_viewpager.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_alertview_actionsheet.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_alertview_actionsheet.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_alert_dialog.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\fast_title_cell_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\fast_title_cell_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_alertview.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_alertview.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_image_list_item.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_image_list_item.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_textview_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_textview_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_tab_viewpager_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_tab_viewpager_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tab_subitem_cell.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\tab_subitem_cell.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_miaokai_guide.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_miaokai_guide.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_miaokai_music_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_miaokai_music_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_image_group_item.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_image_group_item.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_float_hint_text_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_float_hint_text_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\item_alertbutton.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\item_alertbutton.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_action_title_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_action_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tts_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\tts_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_image_browse.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_image_browse.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_title_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_title_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tts_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\tts_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_layout_textview_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_layout_textview_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\layout_tab_viewpager_huawei.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\layout_tab_viewpager_huawei.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_robot_layout_net_error.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_robot_layout_net_error.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_fw_activityfileexplorer.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_fw_activityfileexplorer.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\voice_test_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\voice_test_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_activity_image_list.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_activity_image_list.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_image_group_item.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_image_group_item.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\robot_rootlayout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\robot_rootlayout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_loading_layout.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_loading_layout.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_photo_action_title_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_photo_action_title_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ui_fw_filelistview.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\layout\\ui_fw_filelistview.xml"
+    }
+]

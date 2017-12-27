@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\startup_anima.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\startup_anima.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\startup_anima.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\startup_anima.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_bottom.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_bottom.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_bottom.xml"
+    }
+]

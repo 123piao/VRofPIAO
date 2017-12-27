@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">sdk-ui</string>
+    <!-- 语音输出提示界面BottomAboveView-->
+    <string name="robot_voice_dismiss">手指上滑，取消发送</string>
+    <string name="hw_voice_dismiss">松开手指,语音结束</string>
+    <!-- 语音输出提示界面BottomAboveView-->
+
+    <string name="robot_float_hint_more">更多</string>
+    <string name="app_chat_title_name">度秘</string>
+
+    <!-- 语音error-->
+    <string name="robot_error_main_network_err">网络出问题了</string>
+    <string name="robot_error_main_network_err_info">请检查网络设置</string>
+
+    <string name="robot_error_main_minc_err">麦克风貌似不可用哦</string>
+    <string name="robot_error_main_minc_err_info">请检查麦克风设置</string>
+
+    <string name="robot_error_msg_no_voice_input">抱歉，我没听清</string>
+    <string name="robot_error_msg_info_no_voice_input">请说话大声些或换一个安静的环境再试试</string>
+
+    <string name="robot_voice_error_msg_default">好像哪里不对劲</string>
+    <string name="robot_voice_error_msg_info_default">建议再试一次</string>
+
+    <string name="ui_title_bar_back">返回</string>
+
+
+    <!-- 图片选择open src -->
+    <string name="loaded_fail">加载失败，请点击屏幕重试</string>
+    <string name="donot_has_sdcard">暂无外部存储</string>
+    <string name="image_count">%1$s张</string>
+    <string name="no_images">您的手机中暂时没有图片哦~</string>
+    <string name="ui_robot_cancel">取消</string>
+
+    <!--秒开相关-->
+    <string name="string_wifi">WLAN</string>
+    <string name="string_bluetooth">蓝牙</string>
+    <string name="string_title_wifi">选择WLAN</string>
+    <string name="string_title_bluetooth">匹配蓝牙设备</string>
+    <string name="string_operator_wifi_bluetooth_fail">打开失败，请在系统设置中打开</string>
+    
+    <!-- 音乐条-->
+    <string name="ui_robot_music_play">正在播放音乐</string>
+</resources>

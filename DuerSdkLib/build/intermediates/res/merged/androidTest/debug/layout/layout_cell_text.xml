@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="50dp"
+              android:layout_height="wrap_content">
+    <View
+        android:layout_width="match_parent"
+        android:id="@+id/id_tab_div"
+        android:background="@drawable/robot_selector_tab_view_div"
+        android:layout_height="1px"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:background="@drawable/robot_selector_tab_view"
+        android:layout_height="50dp">
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="18dp"
+        android:layout_height="18dp"
+        android:layout_centerHorizontal="true"
+        />
+        <!--android:src="@drawable/robot_icon_tab_guide_selector"-->
+    
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="推荐"
+        android:textSize="10dp"
+        android:gravity="bottom"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/icon"
+        android:textColor="@color/robot_selector_tab_text_view"/>
+    
+    <ImageView 
+        android:id="@+id/red_new_hint"
+        android:layout_width="8dp"
+        android:layout_height="8dp"
+        android:visibility="gone"
+        android:layout_marginLeft="-3dp"
+        android:layout_marginTop="-3dp"
+        android:layout_toRightOf="@+id/icon"
+        android:src="@drawable/red_dot_hint"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomedTextView">
+        <attr name="textwidth" format="dimension" />
+        <attr name="textSize" format="dimension" />
+        <attr name="marginLeft" format="dimension" />
+        <attr name="marginRight" format="dimension" />
+        <attr name="paddingRight" format="dimension" />
+        <attr name="paddingLeft" format="dimension" />
+        <attr name="paddingTop" format="dimension" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="lineSpacingExtra" format="dimension" />
+        <attr name="typeface" format="dimension" />
+        <attr name="max_line_count" format="integer" />
+    </declare-styleable>
+</resources>

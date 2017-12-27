@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/id_tab_scroll_refresh"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="209dp"
+    android:orientation="vertical"
+    >
+
+    <!--<com.baidu.robot.uicomlib.tabhint.tabhintmodule.view.PagerHintView-->
+        <!--android:id="@+id/id_content_container"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:background="#ffffff"-->
+        <!--android:layout_height="159dp"-->
+        <!--&gt;-->
+    <!--</com.baidu.robot.uicomlib.tabhint.tabhintmodule.view.PagerHintView>-->
+    <android.support.v4.view.ViewPager
+        android:id="@+id/id_content_container"
+        android:layout_width="match_parent"
+        android:background="#ffffff"
+        android:layout_height="159dp"
+        >
+    </android.support.v4.view.ViewPager>
+
+    <LinearLayout
+        android:id="@+id/id_dot_layout"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@+id/id_content_container"
+        android:orientation="horizontal"
+        android:visibility="gone"></LinearLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/id_parent_tab_container"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/id_dot_layout"
+        android:background="#ecedee"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <RelativeLayout
+            android:id="@+id/id_parent_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:id="@+id/id_tab_container"
+                android:layout_width="match_parent"
+                android:layout_height="47dp"
+                android:orientation="horizontal">
+            </LinearLayout>
+
+            <ImageView
+                android:id="@+id/id_hint_view"
+                android:layout_width="100dp"
+                android:layout_height="3dp"
+                android:layout_alignParentLeft="true"
+                android:layout_below="@id/id_tab_container"
+                android:layout_marginLeft="0dp"
+                android:visibility="visible">
+            </ImageView>
+        </RelativeLayout>
+    </HorizontalScrollView>
+
+
+</RelativeLayout>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.baidu.robot.uicomlib.tabhint.main.drawer.BottomView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomAboveView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ecedee"
+        android:visibility="gone">
+
+        <include
+            android:id="@+id/ui_id_voice_layout"
+            layout="@layout/robot_voice_search_1_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ></include>
+        
+        <!--<com.baidu.robot.modules.chatmodule.views.hint.FloatHintLinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--/>-->
+        <!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--xmlns:cutoff="http://schemas.android.com/apk/res-auto"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dp"-->
+        <!--android:id="@+id/voice_result_layout"-->
+        <!--android:visibility="gone"-->
+        <!--android:background="@android:color/white">-->
+
+        <!--<View-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="1px"-->
+        <!--android:layout_alignParentTop="true"-->
+        <!--android:background="#dadada" />-->
+
+        <!--<com.baidu.robot.uicomlib.tabhint.view.base.CutOffTextView-->
+
+        <!--android:id="@+id/id_voice_text"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="80dip"-->
+        <!--android:layout_marginLeft="60dp"-->
+        <!--android:layout_marginRight="60dp"-->
+        <!--android:layout_marginTop="20dip"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:text=""-->
+        <!--android:textSize="@dimen/voice_laber_text_size"-->
+        <!--android:visibility="invisible"-->
+        <!--cutoff:lineSpacingExtra="2dip"-->
+        <!--cutoff:paddingLeft="0dip"-->
+        <!--cutoff:paddingRight="0dip"-->
+        <!--cutoff:paddingTop="15dip"-->
+        <!--cutoff:textColor="@color/voice_ui_color_dark_gray"-->
+        <!--cutoff:textSize="18sp" />-->
+
+        <!--<ImageView-->
+        <!--android:id="@+id/volume_level_state"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="30dip"-->
+        <!--android:src="@drawable/record_animate_01" />-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/light_cancel_hint"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="10dip"-->
+        <!--android:text="@string/hw_voice_dismiss"-->
+        <!--android:textColor="@color/robot_cancel_voice_input_color_gray"-->
+        <!--android:textSize="13sp" />-->
+
+        <!--<ProgressBar-->
+        <!--android:id="@+id/recogiz_loading"-->
+        <!--style="@style/progress_bar_style"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="30dip"-->
+        <!--android:visibility="gone" />-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/cancel_hint"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_above="@id/volume_level_state"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_marginBottom="10dip"-->
+        <!--android:background="#555555"-->
+        <!--android:padding="5dp"-->
+        <!--android:text="@string/robot_voice_dismiss"-->
+        <!--android:textColor="@android:color/white"-->
+        <!--android:textSize="16sp"-->
+        <!--android:visibility="gone" />-->
+
+        <!--</RelativeLayout>-->
+
+        <!--<include-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--layout="@layout/robot_voice_error_layout"-->
+        <!--/>-->
+    </com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomAboveView>
+
+    <com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomMiddleView
+        android:layout_width="match_parent"
+        android:background="#ecedee"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.baidu.robot.uicomlib.tabhint.tabhintmodule.hint.FloatHintLinearLayout
+                android:id="@+id/ui_id_floathint"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:visibility="gone">
+
+            </com.baidu.robot.uicomlib.tabhint.tabhintmodule.hint.FloatHintLinearLayout>
+
+            <RelativeLayout
+                android:id="@+id/id_send_input_container"
+                android:layout_width="match_parent"
+                android:layout_height="53dp"
+                android:layout_below="@+id/ui_id_floathint"
+                android:background="#ecedee"
+                android:focusableInTouchMode="true">
+
+                <View
+                    android:id="@+id/id_input_line"
+                    android:layout_width="match_parent"
+                    android:layout_height="1px"
+                    android:layout_alignParentTop="true"
+                    android:background="@color/robot_input_line_color"/>
+
+                <ImageButton
+                    android:id="@+id/id_switch_icon"
+                    android:layout_width="42dp"
+                    android:layout_height="32dp"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="5dp"
+                    android:background="@null"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/robot_microphone_selector"/>
+
+                <Button
+                    android:id="@+id/id_send_text"
+                    android:layout_width="40dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_marginTop="6dp"
+                    android:background="@drawable/robot_send_btn_style"
+                    android:paddingBottom="3dp"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp"
+                    android:paddingTop="3dp"
+                    android:text="发送"
+                    android:textColor="#ffffff"
+                    android:textSize="14dp"
+                    android:visibility="invisible"/>
+
+                <RelativeLayout
+                    android:id="@+id/id_send_extra_layout"
+                    android:layout_width="80dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="center"
+                    android:src="@drawable/robot_icon_chat_extra_selector"
+                    android:textColor="@color/robot_btn_text_color"
+                    android:textSize="@dimen/robot_send_btn_text_size"
+                    android:visibility="visible"
+                    >
+
+                    <RelativeLayout
+                        android:id="@+id/id_send_grid_layout"
+                        android:layout_width="30dp"
+                        android:layout_height="match_parent"
+                        android:layout_centerVertical="true"
+                        android:layout_toLeftOf="@+id/id_send_extra"
+                        android:scaleType="center"
+                        android:src="@drawable/robot_icon_chat_grid_selector"
+                        android:visibility="visible">
+
+                        <ImageView
+                            android:id="@+id/id_send_grid"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_alignParentRight="true"
+                            android:scaleType="center"
+                            android:src="@drawable/robot_icon_chat_grid_selector"
+                            android:visibility="visible"/>
+                    </RelativeLayout>
+
+                    <ImageView
+                        android:id="@+id/bottom_red_dot_hint"
+                        android:layout_width="7dip"
+                        android:layout_height="7dip"
+                        android:layout_marginRight="-3dip"
+                        android:layout_marginTop="15dip"
+                        android:layout_toRightOf="@id/id_send_grid_layout"
+                        android:src="@drawable/red_dot_hint"
+                        android:background="#00000000"
+                        android:visibility="gone"/>
+
+                    <ImageView
+                        android:id="@+id/id_send_extra"
+                        android:layout_width="50dp"
+                        android:layout_height="match_parent"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:scaleType="center"
+                        android:src="@drawable/robot_icon_chat_extra_selector"
+                        android:textColor="@color/robot_btn_text_color"
+                        android:background="#00000000"
+                        android:textSize="@dimen/robot_send_btn_text_size"
+                        android:visibility="visible"/>
+                </RelativeLayout>
+
+                <Button
+                    android:id="@+id/id_press_hint"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerVertical="true"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_toLeftOf="@+id/id_send_extra_layout"
+                    android:layout_toRightOf="@+id/id_switch_icon"
+                    android:background="@drawable/robot_voice_btn_style"
+                    android:gravity="center"
+                    android:text="按住 说话"
+                    android:textColor="@color/robot_send_btn_text_color"
+                    android:textSize="@dimen/robot_btn_text_size"
+                    android:visibility="gone"/>
+
+                <EditText
+                    android:id="@+id/id_edit_input"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_toLeftOf="@+id/id_send_extra_layout"
+                    android:layout_toRightOf="@+id/id_switch_icon"
+                    android:background="@drawable/ui_robot_voice_btn_normal_shape"
+                    android:gravity="center_vertical|left"
+                    android:maxLength="300"
+                    android:paddingLeft="6dp"
+                    android:textColor="@color/robot_btn_text_color"
+                    android:textColorHint="#888888"
+                    android:textSize="14sp"
+                    android:visibility="visible"/>
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+    </com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomMiddleView>
+
+    <com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomBelowView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--导航栏-->
+        <com.baidu.robot.uicomlib.tabhint.tabhintmodule.view.TabHintView
+            android:id="@+id/id_tab_hint_view"
+            android:layout_width="match_parent"
+            android:layout_height="209dp"
+            android:visibility="visible">
+        </com.baidu.robot.uicomlib.tabhint.tabhintmodule.view.TabHintView>
+        <!--Extra Camera-->
+        <LinearLayout
+            android:id="@+id/id_chat_extra"
+            android:layout_width="match_parent"
+            android:layout_height="209dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="25dp"
+            android:paddingTop="25dp"
+            android:background="#ffffff"
+            android:visibility="invisible">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/id_chat_extra_photo_img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/robot_selector_chat_extra_photo"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/id_chat_extra_photo_img"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="选择照片"
+                    android:textColor="#4e515e"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageView
+                    android:id="@+id/id_chat_extra_camera_img"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/robot_selector_chat_extra_camera"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/id_chat_extra_camera_img"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="10dp"
+                    android:text="拍摄照片"
+                    android:textColor="#4e515e"
+                    android:textSize="14sp"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </com.baidu.robot.uicomlib.tabhint.main.drawer.child.BottomBelowView>
+</com.baidu.robot.uicomlib.tabhint.main.drawer.BottomView>

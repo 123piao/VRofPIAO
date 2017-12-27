@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hw_press_search_tips"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:visibility="invisible"
+    android:background="@android:color/white">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_alignParentTop="true"
+        android:background="#dadada" />
+
+    <ImageView
+        android:id="@+id/tips_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="74px"
+        android:layout_width="370px"
+        android:layout_height="344px"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/hw_smart_key_tip"/>
+
+    <TextView
+        android:id="@+id/tips_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/tips_content"
+        android:layout_marginBottom="74px"
+        android:textSize="52px"
+        android:layout_centerHorizontal="true"
+        android:textColor="#4e515e"
+        android:text="请长按手机左侧的智灵键说话"
+        />
+
+</RelativeLayout>

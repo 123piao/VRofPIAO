@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="robot_send_btn_text_size">16sp</dimen>
+    <dimen name="robot_btn_text_size">16sp</dimen>
+    <dimen name="voice_laber_text_size">25sp</dimen>
+    <dimen name="robot_btn_text_size_huawei">14sp</dimen>
+    <dimen name="robot_title_icon_size">27dip</dimen>
+    <dimen name="robot_title_hight">40dp</dimen>
+    <dimen name="robot_icon_width_height">40dp</dimen>
+
+    <dimen name="ui_robot_back_to_left">16dp</dimen>
+
+    <!-- spacing -->
+    <dimen name="ui_spacing_small">3dip</dimen>
+    <dimen name="ui_spacing_medium">5dip</dimen>
+    <dimen name="ui_spacing_large">8dip</dimen>
+
+    <!-- padding -->
+    <dimen name="ui_padding_small">3dip</dimen>
+    <dimen name="ui_padding_medium">5dip</dimen>
+    <dimen name="ui_padding_large">8dip</dimen>
+    <dimen name="ui_padding_xlarger">10dip</dimen>
+
+    <!-- other -->
+    <dimen name="ui_group_item_image_heght">150dip</dimen>
+    <dimen name="ui_group_list_item_image_heght">100dip</dimen>
+    <dimen name="ui_group_item_tips_heght">30dip</dimen>
+
+</resources>

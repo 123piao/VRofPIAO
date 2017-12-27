@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="robot_input_line_color">#e5e7e9</color>
+    <color name="robot_btn_text_color">#000000</color>
+    <color name="robot_send_btn_text_color">#4e515e</color>
+    <color name="voice_ui_color_dark_gray">#666666</color>
+    <color name="robot_cancel_voice_input_color_gray">#b9bbbe</color>
+
+    <drawable name="robot_tab_view_press">#ffffff</drawable>
+    <drawable name="robot_tab_view_normal">#ecedee</drawable>
+    <drawable name="robot_tab_view_div_press">#ffffff</drawable>
+    <drawable name="robot_tab_view_div_normal">#dcddde</drawable>
+
+    <color name="robot_tab_view_text_press">#379fff</color>
+    <color name="robot_tab_view_text_normal">#4e515e</color>
+
+    <color name="robot_bk_color">#ffffff</color>
+    <color name="close_press">#ffffff</color>
+    <color name="close_normal">#000000</color>
+    <color name="robot_title_layout_bg">#ffffff</color>
+    <color name="hw_welcome_hint_text_color">#379fff</color>
+
+    <color name="ui_robot_title_bk_color">#ffffff</color>
+
+    <color name="ui_robot_press_btn_pressed">#555555</color>
+    <color name="ui_robot_press_btn_nomor">#000000</color>
+    <color name="ui_robot_press_btn_disabled">#3079ec</color>
+
+    <color name="ui_title_bar_press_text_color">#c0c0c0</color>
+    <color name="ui_title_bar_disable_text_color">#888888</color>
+    <color name="ui_title_bar_text_color">#333333</color>
+
+    <color name="ui_translucent_black">#77000000</color>
+
+    <!-- debug界面颜色-->
+    <color name="debug_button_text_color">#ff333333</color>
+
+    <color name="ui_music_title_color">#4e515e</color>
+    <color name="ui_music_content_color">#a8a8a8</color>
+</resources>

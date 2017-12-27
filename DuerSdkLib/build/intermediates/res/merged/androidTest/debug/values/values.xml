@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bgColor_alert_button_press">#d9d9d9</color>
+    <color name="bgColor_alertview_alert_start">#f0f0f0</color>
+    <color name="bgColor_divier">#d9d9d9</color>
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="close_normal">#000000</color>
+    <color name="close_press">#ffffff</color>
+    <color name="debug_button_text_color">#ff333333</color>
+    <color name="hw_welcome_hint_text_color">#379fff</color>
+    <color name="robot_bk_color">#ffffff</color>
+    <color name="robot_btn_text_color">#000000</color>
+    <color name="robot_cancel_voice_input_color_gray">#b9bbbe</color>
+    <color name="robot_input_line_color">#e5e7e9</color>
+    <color name="robot_send_btn_text_color">#4e515e</color>
+    <color name="robot_tab_view_text_normal">#4e515e</color>
+    <color name="robot_tab_view_text_press">#379fff</color>
+    <color name="robot_title_layout_bg">#ffffff</color>
+    <color name="textColor_alert_button">#333333</color>
+    <color name="textColor_bottom_button">#333333</color>
+    <color name="ui_music_content_color">#a8a8a8</color>
+    <color name="ui_music_title_color">#4e515e</color>
+    <color name="ui_robot_press_btn_disabled">#3079ec</color>
+    <color name="ui_robot_press_btn_nomor">#000000</color>
+    <color name="ui_robot_press_btn_pressed">#555555</color>
+    <color name="ui_robot_title_bk_color">#ffffff</color>
+    <color name="ui_title_bar_disable_text_color">#888888</color>
+    <color name="ui_title_bar_press_text_color">#c0c0c0</color>
+    <color name="ui_title_bar_text_color">#333333</color>
+    <color name="ui_translucent_black">#77000000</color>
+    <color name="voice_ui_color_dark_gray">#666666</color>
+    <declare-styleable name="CustomedTextView"><attr format="dimension" name="textwidth"/><attr format="dimension" name="textSize"/><attr format="dimension" name="marginLeft"/><attr format="dimension" name="marginRight"/><attr format="dimension" name="paddingRight"/><attr format="dimension" name="paddingLeft"/><attr format="dimension" name="paddingTop"/><attr format="reference|color" name="textColor"/><attr format="dimension" name="lineSpacingExtra"/><attr format="dimension" name="typeface"/><attr format="integer" name="max_line_count"/></declare-styleable>
+    <declare-styleable name="GenericDraweeHierarchy"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable>
+    <declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/></declare-styleable>
+    <dimen name="height_alert_button">50dp</dimen>
+    <dimen name="robot_btn_text_size">16sp</dimen>
+    <dimen name="robot_btn_text_size_huawei">14sp</dimen>
+    <dimen name="robot_icon_width_height">40dp</dimen>
+    <dimen name="robot_send_btn_text_size">16sp</dimen>
+    <dimen name="robot_title_hight">40dp</dimen>
+    <dimen name="robot_title_icon_size">27dip</dimen>
+    <dimen name="textSize_alert_button">18sp</dimen>
+    <dimen name="textSize_bottom_button">18sp</dimen>
+    <dimen name="ui_group_item_image_heght">150dip</dimen>
+    <dimen name="ui_group_item_tips_heght">30dip</dimen>
+    <dimen name="ui_group_list_item_image_heght">100dip</dimen>
+    <dimen name="ui_padding_large">8dip</dimen>
+    <dimen name="ui_padding_medium">5dip</dimen>
+    <dimen name="ui_padding_small">3dip</dimen>
+    <dimen name="ui_padding_xlarger">10dip</dimen>
+    <dimen name="ui_robot_back_to_left">16dp</dimen>
+    <dimen name="ui_spacing_large">8dip</dimen>
+    <dimen name="ui_spacing_medium">5dip</dimen>
+    <dimen name="ui_spacing_small">3dip</dimen>
+    <dimen name="voice_laber_text_size">25sp</dimen>
+    <drawable name="robot_tab_view_div_normal">#dcddde</drawable>
+    <drawable name="robot_tab_view_div_press">#ffffff</drawable>
+    <drawable name="robot_tab_view_normal">#ecedee</drawable>
+    <drawable name="robot_tab_view_press">#ffffff</drawable>
+    <item name="miao_kai_web_id" type="id"/>
+    <item name="more_float_hint" type="id"/>
+    <string name="app_chat_title_name">度秘</string>
+    <string name="app_name">sdk-ui</string>
+    <string name="donot_has_sdcard">暂无外部存储</string>
+    <string name="hw_voice_dismiss">松开手指,语音结束</string>
+    <string name="image_count">%1$s张</string>
+    <string name="loaded_fail">加载失败，请点击屏幕重试</string>
+    <string name="no_images">您的手机中暂时没有图片哦~</string>
+    <string name="robot_error_main_minc_err">麦克风貌似不可用哦</string>
+    <string name="robot_error_main_minc_err_info">请检查麦克风设置</string>
+    <string name="robot_error_main_network_err">网络出问题了</string>
+    <string name="robot_error_main_network_err_info">请检查网络设置</string>
+    <string name="robot_error_msg_info_no_voice_input">请说话大声些或换一个安静的环境再试试</string>
+    <string name="robot_error_msg_no_voice_input">抱歉，我没听清</string>
+    <string name="robot_float_hint_more">更多</string>
+    <string name="robot_voice_dismiss">手指上滑，取消发送</string>
+    <string name="robot_voice_error_msg_default">好像哪里不对劲</string>
+    <string name="robot_voice_error_msg_info_default">建议再试一次</string>
+    <string name="string_bluetooth">蓝牙</string>
+    <string name="string_operator_wifi_bluetooth_fail">打开失败，请在系统设置中打开</string>
+    <string name="string_title_bluetooth">匹配蓝牙设备</string>
+    <string name="string_title_wifi">选择WLAN</string>
+    <string name="string_wifi">WLAN</string>
+    <string name="ui_robot_cancel">取消</string>
+    <string name="ui_robot_music_play">正在播放音乐</string>
+    <string name="ui_title_bar_back">返回</string>
+    <style name="dialog_style_01" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="dialog_text_style">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">#037aff</item>
+        <item name="android:textSize">19sp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="fast_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">false</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->
+        <item name="android:windowEnterAnimation">@null</item>
+        <item name="android:windowExitAnimation">@null</item>
+    </style>
+    <style name="progress_bar_style">
+        <item name="android:indeterminateDrawable">@drawable/progress_style</item>
+        <item name="android:minWidth">70dip</item>
+        <item name="android:maxWidth">70dip</item>
+        <item name="android:minHeight">70dip</item>
+        <item name="android:maxHeight">70dip</item>
+    </style>
+    <style name="text_show_time_style" parent="@android:style/TextAppearance">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/robot_chat_time_shape</item>
+        <item name="android:gravity">center</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:text">"2015-11-22"</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">13dp</item>
+        <item name="android:paddingLeft">5dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingTop">3dp</item>
+        <item name="android:paddingBottom">3dp</item>
+    </style>
+    <style name="title_bar_title">
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/ui_title_bar_text_color</item>
+    </style>
+</resources>

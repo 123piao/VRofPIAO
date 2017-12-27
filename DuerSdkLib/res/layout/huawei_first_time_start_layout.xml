@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:descendantFocusability="afterDescendants" >
+    
+    <ImageView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:alpha="0.8"/>
+
+    <RelativeLayout
+        android:id="@+id/hw_welcome_dialog_layout"
+        android:layout_width="900px"
+        android:layout_height="946px"
+        android:layout_marginLeft="90px"
+        android:layout_marginRight="90px"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/hw_welcome_bg"
+        android:gravity="top" >
+
+        <ImageView
+            android:id="@+id/close_btn"
+            android:layout_width="100px"
+            android:layout_height="100px"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="28px"
+            android:layout_marginTop="28px"
+            android:scaleType="center"
+            android:src="@drawable/hw_welcome_close" />
+        
+        <TextView 
+            android:id="@+id/hw_conntent_main_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_marginTop="162px"
+            android:textSize="66px"
+            android:textColor="#000000"
+            android:text="如何在度秘里使用智灵键"/>
+        
+        <ImageView
+            android:id="@+id/hw_welcome_content"
+            android:layout_width="283px"
+            android:layout_height="335px"
+            android:layout_marginTop="176px"
+            android:layout_marginLeft="91px"
+            android:layout_below="@id/hw_conntent_main_hint"
+            android:src="@drawable/hw_welcome_hint_pic" />
+        
+        <ImageView 
+            android:layout_width="wrap_content"
+            android:layout_height="315px"
+            android:layout_toRightOf="@id/hw_welcome_content"
+            android:layout_below="@id/hw_conntent_main_hint"
+            android:layout_marginTop="176px"
+            android:layout_marginLeft="66px"
+            android:src="@drawable/hw_welcome_devider"
+            />
+        
+        <TextView 
+            android:id="@+id/sidekick_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="50px"
+            android:textColor="@color/hw_welcome_hint_text_color"
+            android:layout_toRightOf="@id/hw_welcome_content"
+            android:layout_marginTop="500px"
+            android:layout_marginLeft="121px"
+            android:text="长按智灵键,\n开启语音输入"/>
+    </RelativeLayout>
+
+</RelativeLayout>

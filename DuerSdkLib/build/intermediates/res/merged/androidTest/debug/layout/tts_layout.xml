@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/tts_play_switch"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="15dp"
+        android:contentDescription="@null"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:visibility="visible"
+        android:scaleType="fitXY"
+        />
+
+    <ImageView
+        android:id="@+id/tts_play_horn"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_centerVertical="true"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="15dp"
+        android:clickable="false"
+        android:contentDescription="@null"
+        android:focusable="false"
+        android:background="@drawable/startup_anima"
+        android:focusableInTouchMode="false"
+        android:visibility="invisible"
+        android:scaleType="fitXY"
+        />
+</RelativeLayout>

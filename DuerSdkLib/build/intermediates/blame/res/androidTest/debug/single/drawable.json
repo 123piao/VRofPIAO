@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_share_icon_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_share_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\hw_smart_key_tip.png",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\hw_smart_key_tip.png"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_divider_line_vertical.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_divider_line_vertical.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_chat_grid_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_chat_grid_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_tab_guide_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_tab_guide_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_action_bar_back_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_action_bar_back_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\float_hint_content_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\float_hint_content_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_pager_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_pager_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_top_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_top_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_normal_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_normal_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_progress_dialog_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_progress_dialog_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_text_style_pressed_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_text_style_pressed_right.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_check_box_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_check_box_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_right_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_right_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_chat_extra_photo.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_chat_extra_photo.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_left_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_left_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_normal_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_normal_right.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_voice_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_voice_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_press_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_press_right.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_one_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_one_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_chat_time_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_chat_time_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_center_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_center_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_chat_extra_photo.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_chat_extra_photo.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_pager_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_pager_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_press_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_press_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_check_box_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_check_box_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_divider_line_horizontal.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_divider_line_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\float_hint_more_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\float_hint_more_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_divider_line_vertical.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_divider_line_vertical.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_progress_bar_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_progress_bar_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_chat_time_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_chat_time_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_tab_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_tab_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_bottom_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_bottom_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_microphone_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_microphone_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_normal_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_normal_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_voice_btn_normal_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_voice_btn_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\float_hint_more_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\float_hint_more_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_divider_line_horizontal.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_divider_line_horizontal.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\float_hint_content_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\float_hint_content_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_normal_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_normal_right.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_left_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_left_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_text_style_pressed_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_text_style_pressed_right.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_voice_btn_press_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_voice_btn_press_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_press_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_press_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_tab_view.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_tab_view.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_tab_guide_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_tab_guide_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_press_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_press_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_share_icon_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_share_icon_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_keyboard_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_voice_btn_press_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_voice_btn_press_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\action_bar_order_detail_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\action_bar_order_detail_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_top_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_top_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chat_title_discovert_icon_selector_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\chat_title_discovert_icon_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_bottom_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_bottom_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_center_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_center_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_tab_view_div.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_tab_view_div.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_press_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_press_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_keyboard_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_keyboard_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_text_one_bg_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_text_one_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_action_bar_back_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_action_bar_back_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_microphone_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_microphone_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\progress_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\progress_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_pager_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_pager_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_progress_bar_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_progress_bar_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_chat_extra_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_chat_extra_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\action_bar_order_detail_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\action_bar_order_detail_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_right_btn_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_right_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_chat_extra_camera.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_chat_extra_camera.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_chat_extra_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_chat_extra_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_normal_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\hw_smart_key_tip.png",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\hw_smart_key_tip.png"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flow_item_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\flow_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_progress_dialog_bar.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_progress_dialog_bar.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_chat_extra_camera.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_chat_extra_camera.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_icon_chat_grid_selector.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_icon_chat_grid_selector.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chat_title_discovert_icon_selector_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\chat_title_discovert_icon_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_voice_btn_style.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_voice_btn_style.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_robot_voice_btn_normal_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_robot_voice_btn_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\flow_item_bg.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\flow_item_bg.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_text_style_pressed_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_text_style_pressed_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_selector_tab_view_div.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_selector_tab_view_div.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\robot_send_btn_normal_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\robot_send_btn_normal_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_text_style_pressed_left.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_text_style_pressed_left.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\guide_pager_shape.xml",
+        "source": "D:\\Studio\\StudioSpace\\Chshtv_Demo\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\guide_pager_shape.xml"
+    },
+    {
+        "merged": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ui_logout_dialog_text_style_press_right.xml",
+        "source": "D:\\Studio\\StudioSpace\\ReadWrite\\DuerSdkLib\\build\\intermediates\\bundles\\debug\\res\\drawable\\ui_logout_dialog_text_style_press_right.xml"
+    }
+]

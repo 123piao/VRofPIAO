@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.baidu.robot.framework.webview.BridgeWebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ViewStub
+        android:id="@+id/id_error_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout="@layout/robot_layout_net_error"/>
+</LinearLayout>

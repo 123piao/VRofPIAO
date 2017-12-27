@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/robot_bk_color"
+    >
+    
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/ui_photo_action_title_bar"/>
+
+    <GridView
+        android:id="@+id/images_gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/id_confirm_layout"
+        android:layout_below="@+id/title_bar"
+        android:background="@color/robot_bk_color"
+        android:cacheColorHint="@android:color/transparent"
+        android:gravity="center"
+        android:horizontalSpacing="@dimen/ui_spacing_medium"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:padding="@dimen/ui_padding_small"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="@dimen/ui_spacing_medium">
+    </GridView>
+
+    <include layout="@layout/ui_loading_layout"/>
+
+    <LinearLayout
+        android:id="@+id/id_confirm_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_alignParentBottom="true"
+        android:divider="@drawable/ui_divider_line_vertical"
+        android:orientation="horizontal"
+        android:showDividers="middle">
+
+        <TextView
+            android:id="@+id/btn_cancel"
+            style="@style/dialog_text_style"
+            android:background="@drawable/ui_logout_dialog_left_btn_selector"
+            android:text="@string/ui_robot_cancel"/>
+
+        <TextView
+            android:id="@+id/btn_confirm"
+            style="@style/dialog_text_style"
+            android:background="@drawable/ui_logout_dialog_right_btn_selector"
+            android:text="发送"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_above="@id/id_confirm_layout"
+        android:background="#cccccc"/>
+
+</RelativeLayout>

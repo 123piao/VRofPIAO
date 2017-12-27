@@ -1,0 +1,141 @@
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cutoff="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    >
+
+    <RelativeLayout
+        android:id="@+id/voice_result_layout"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@android:color/white"
+        android:visibility="gone">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="#dadada"/>
+
+        <com.baidu.robot.uicomlib.tabhint.view.base.CutOffTextView
+
+            android:id="@+id/id_voice_text"
+            android:layout_width="match_parent"
+            android:layout_height="80dip"
+            android:layout_marginLeft="60dp"
+            android:layout_marginRight="60dp"
+            android:layout_marginTop="20dip"
+            android:background="@android:color/white"
+            android:text=""
+            android:textSize="@dimen/voice_laber_text_size"
+            android:visibility="invisible"
+            cutoff:lineSpacingExtra="2dip"
+            cutoff:paddingLeft="0dip"
+            cutoff:paddingRight="0dip"
+            cutoff:paddingTop="20dip"
+            cutoff:textColor="@color/voice_ui_color_dark_gray"
+            cutoff:textSize="18sp"/>
+
+        <ImageView
+            android:id="@+id/volume_level_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dip"
+            android:src="@drawable/record_animate_02"/>
+
+        <TextView
+            android:id="@+id/light_cancel_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dip"
+            android:text="@string/hw_voice_dismiss"
+            android:textColor="@color/robot_cancel_voice_input_color_gray"
+            android:textSize="13sp"/>
+
+        <ProgressBar
+            android:id="@+id/recogiz_loading"
+            style="@style/progress_bar_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dip"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/cancel_hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@id/volume_level_state"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="10dip"
+            android:background="#555555"
+            android:padding="5dp"
+            android:text="@string/robot_voice_dismiss"
+            android:textColor="@android:color/white"
+            android:textSize="16sp"
+            android:visibility="gone"/>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/error_msg_layout"
+        android:layout_width="match_parent"
+        android:layout_height="200dip"
+        android:background="@android:color/white"
+        android:visibility="gone">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:layout_alignParentTop="true"
+            android:background="#dadada"/>
+
+        <ImageView
+            android:id="@+id/error_state"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="30dip"
+            android:src="@drawable/error_msg_icon"/>
+
+        <TextView
+            android:id="@+id/error_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="28dip"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="出错提示1"
+            android:textColor="#888888"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/err_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/error_msg"
+            android:layout_marginTop="5dip"
+            android:gravity="center"
+            android:singleLine="true"
+            android:text="出错提示2"
+            android:textColor="#999999"
+            android:textSize="15sp"/>
+    </RelativeLayout>
+
+    <!--<include-->
+        <!--android:id="@+id/hw_press_btn_on_touch_view"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="200dip"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--layout="@layout/huawei_press_search_layout"-->
+        <!--/>-->
+    
+</FrameLayout>

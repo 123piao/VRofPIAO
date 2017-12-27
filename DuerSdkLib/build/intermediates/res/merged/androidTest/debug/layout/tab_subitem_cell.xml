@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:id="@+id/tab_cell_item"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:id="@+id/guide_icon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:scaleType="fitCenter"
+            android:layout_gravity="center"
+            />
+        
+        <ImageView 
+            android:id="@+id/guide_red_dot_hint"
+            android:layout_width="7dip"
+            android:layout_height="7dip"
+            android:src="@drawable/red_dot_hint"
+            android:layout_marginLeft="-10dp"
+            android:layout_toRightOf="@id/guide_icon"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/guide_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:gravity="center"
+        android:text=""
+        android:textColor="#4e515e"
+        android:textSize="11dp" />
+
+</LinearLayout>

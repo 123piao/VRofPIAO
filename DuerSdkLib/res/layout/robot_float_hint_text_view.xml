@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:layout_width="wrap_content"
+          android:layout_height="36dip"
+          android:background="@color/robot_bk_color"
+          android:ellipsize="none"
+          android:gravity="center"
+          android:singleLine="true"
+          android:text="更多"
+          android:textColor="#000000"
+          android:textSize="16sp"
+          android:visibility="invisible"/>
